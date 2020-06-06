@@ -1,0 +1,10 @@
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CDOMINIO.dll
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CDOMINIO.pdb
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CAD.dll
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CAD.pdb
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.csprojAssemblyReference.cache
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.csproj.CopyComplete
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.dll
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.pdb
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CSOPORTE.dll
+C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CSOPORTE.pdb

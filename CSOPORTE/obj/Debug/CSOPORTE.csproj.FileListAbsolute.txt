@@ -1,0 +1,5 @@
+C:\Users\270-P001\source\repos\ElectronPOS\CSOPORTE\bin\Debug\CSOPORTE.dll
+C:\Users\270-P001\source\repos\ElectronPOS\CSOPORTE\bin\Debug\CSOPORTE.pdb
+C:\Users\270-P001\source\repos\ElectronPOS\CSOPORTE\obj\Debug\CSOPORTE.csprojAssemblyReference.cache
+C:\Users\270-P001\source\repos\ElectronPOS\CSOPORTE\obj\Debug\CSOPORTE.dll
+C:\Users\270-P001\source\repos\ElectronPOS\CSOPORTE\obj\Debug\CSOPORTE.pdb
