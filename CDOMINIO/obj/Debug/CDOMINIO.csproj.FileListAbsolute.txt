@@ -8,3 +8,13 @@ C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.dll
 C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.pdb
 C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CSOPORTE.dll
 C:\Users\270-P001\source\repos\ElectronPOS\CDOMINIO\bin\Debug\CSOPORTE.pdb
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\bin\Debug\CDOMINIO.dll
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\bin\Debug\CDOMINIO.pdb
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\bin\Debug\CAD.dll
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\bin\Debug\CSOPORTE.dll
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\bin\Debug\CAD.pdb
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\bin\Debug\CSOPORTE.pdb
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.csprojAssemblyReference.cache
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.csproj.CopyComplete
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.dll
+C:\Proyectos\Desarrollo\ElectronPOS\CDOMINIO\obj\Debug\CDOMINIO.pdb
